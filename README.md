@@ -2,7 +2,7 @@
 
 ### Biostatistician | Data Analyst | MERL & Research
 
-I am a Biostatistician and Data Analyst working at the intersection of **data science, public health, development research, and Monitoring, Evaluation and Learning (MERL)**.
+I am a Biostatistician and Data Analyst working at the intersection of **statistical modelling and predictive analytics, public health, development research, and Monitoring, Evaluation and Learning (MERL)**.
 
 I specialise in transforming complex datasets into meaningful insights through statistical analysis, predictive modelling, data visualisation, and evidence-based research. My work spans disease surveillance, development indicators, programme monitoring, and policy analysis.
 
